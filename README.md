@@ -1,5 +1,5 @@
 # AMFP-Curatorial-Service
-How to handle thousands of images of your original artwork?
+How to handle thousands of images of original artwork so that they can be used in app and online collatoral?
 
 I've been taking pictures of my original art since 2011 and now have over 2k jpegs or various quality. Being a decent TSQL developer and SQL Server enthusiast, I decided to try out the filetable feature with my art. Can I create SSRS reports and organize abstract images based on Azure AI tools? 
 
